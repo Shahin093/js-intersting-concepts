@@ -11,14 +11,3 @@ function add(first, second) { //
     return result;
 }
 console.log(add(3, 3));
-
-
-
-
-
-
-
-
-
-
-
