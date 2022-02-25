@@ -33,4 +33,6 @@ delete sixth[2];
 // console.log(sixth);
 
 const seventh = undefined;
-console.log(seventh);
+// console.log(seventh);
+
+const myObj = {};
